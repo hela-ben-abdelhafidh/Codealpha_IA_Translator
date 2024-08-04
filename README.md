@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python Programming and IA
 - 🌱 I’m currently an industrial computer engineering student
 - 💞️ I’m looking to collaborate on Projects
-- 📫 Reach me via Linkedin : www.linkedin.com/in/helaben-abdelhafid
+- 📫 Reach me via Linkedin : www.linkedin.com/in/hela-ben-abdelhafidh
 - 😄 Happy to see you here
 
 
