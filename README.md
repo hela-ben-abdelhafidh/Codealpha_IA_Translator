@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hela Ben Abdelhafidh (@Hela1818)
+- 👋 Hi, I’m Hela Ben Abdelhafidh
 - 👀 I’m interested in Python Programming and IA
 - 🌱 I’m currently an industrial computer engineering student
 - 💞️ I’m looking to collaborate on Projects
